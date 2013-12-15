@@ -11,3 +11,6 @@ a better way of navigating through the house, but it just ended up being a bunch
 dont realy have and excuse for that other than it saved time (which is obviously no excuse).
 
 Oh well, here's the final project
+
+And yes, I get the whole point of github is that I can roll back a change like this, but I just prefer it this
+way because i'm not a real programmer...yet
