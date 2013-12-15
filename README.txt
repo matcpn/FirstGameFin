@@ -1,0 +1,1 @@
+EZ, just go into src and run Haunted Mansion Fullscreen.exe or Haunted Mansion Windowed.exe
